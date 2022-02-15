@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 # Script that outputs "Hello"
 
-echo 'Hello World'
+echo 'Hello World 2'
