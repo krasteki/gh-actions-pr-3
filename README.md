@@ -1,7 +1,8 @@
-# GH actions
+# GH Actions 'Hello World' test 
 
-## Demo GH Actions Hello World Test
+### github action workflow - check for correct output   
 
-no >
+> Repository with simple code - helloscript.sh and test for that code - hello_test.sh.
 
-Yes
+
+
